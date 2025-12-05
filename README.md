@@ -28,27 +28,7 @@ The app enables users to:
 
 
 
-<img src="app/src/main/assets/screenshots/splash screen.jpg" width="200" alt="Splash Screen">
-<img src="app/src/main/assets/screenshots/login page.jpg" width="200" alt="Login Page">
-<img src="app/src/main/assets/screenshots/main interface.jpg" width="200" alt="Main Interface">
-<img src="app/src/main/assets/screenshots/categorywise selcting .png.jpg" width="200" alt="Category Selection">
-<img src="app/src/main/assets/screenshots/map integration.jpg" width="200" alt="Map Integration">
-
-
-
-<img src="app/src/main/assets/screenshots/chatbot.jpg" width="200" alt="Chatbot">
-<img src="app/src/main/assets/screenshots/chabot implementation.png.jpg" width="200" alt="Chatbot Implementation">
-<img src="app/src/main/assets/screenshots/ML.jpg" width="200" alt="ML Insights">
-<img src="app/src/main/assets/screenshots/notifications.jpg" width="200" alt="Notifications">
-<img src="app/src/main/assets/screenshots/picnic tools.jpg" width="200" alt="Picnic Tools">
-
-
-
-<img src="app/src/main/assets/screenshots/multi layout.jpg" width="200" alt="Multi Layout">
-<img src="app/src/main/assets/screenshots/firebase_authentication.png" width="200" alt="Firebase Authentication">
-<img src="app/src/main/assets/screenshots/firebase_cloud_messaging.png" width="200" alt="Firebase Cloud Messaging">
-<img src="app/src/main/assets/screenshots/firebase_project_details.png" width="200" alt="Firebase Project Details">
-<img src="app/src/main/assets/screenshots/firebase_user.png" width="200" alt="Firebase User">
+<p align="center"> <img src="app/src/main/assets/screenshots/splash screen.jpg" width="200" alt="Splash Screen"> <img src="app/src/main/assets/screenshots/login page.jpg" width="200" alt="Login Page"> <img src="app/src/main/assets/screenshots/main interface.jpg" width="200" alt="Main Interface"> <img src="app/src/main/assets/screenshots/categorywise selcting .png.jpg" width="200" alt="Category Selection"> <img src="app/src/main/assets/screenshots/map integration.jpg" width="200" alt="Map Integration"> </p> <p align="center"> <img src="app/src/main/assets/screenshots/chatbot.jpg" width="200" alt="Chatbot"> <img src="app/src/main/assets/screenshots/chabot implementation.png.jpg" width="200" alt="Chatbot Implementation"> <img src="app/src/main/assets/screenshots/ML.jpg" width="200" alt="ML Insights"> <img src="app/src/main/assets/screenshots/notifications.jpg" width="200" alt="Notifications"> <img src="app/src/main/assets/screenshots/picnic tools.jpg" width="200" alt="Picnic Tools"> </p> <p align="center"> <img src="app/src/main/assets/screenshots/multi layout.jpg" width="200" alt="Multi Layout"> <img src="app/src/main/assets/screenshots/firebase_authentication.png" width="200" alt="Firebase Authentication"> <img src="app/src/main/assets/screenshots/firebase_cloud_messaging.png" width="200" alt="Firebase Cloud Messaging"> <img src="app/src/main/assets/screenshots/firebase_project_details.png" width="200" alt="Firebase Project Details"> <img src="app/src/main/assets/screenshots/firebase_user.png" width="200" alt="Firebase User"> </p>
 
 ---
 
