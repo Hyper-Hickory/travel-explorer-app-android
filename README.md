@@ -53,8 +53,7 @@ The app enables users to:
   <img src="app/src/main/assets/screenshots/firebase_cloud_messaging.png" width="200" alt="Firebase Cloud Messaging">
   <img src="app/src/main/assets/screenshots/firebase_project_details.png" width="200" alt="Firebase Project Details">
   <img src="app/src/main/assets/screenshots/firebase_user.png" width="200" alt="Firebase User">
-  <!-- Replace this with your 16th image -->
-  <img src="app/src/main/assets/screenshots/YOUR_16TH_IMAGE_NAME.jpg" width="200" alt="Extra Screenshot">
+
 </p>
 ---
 
