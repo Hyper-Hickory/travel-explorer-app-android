@@ -1,15 +1,14 @@
-
-# 🗺️ Travel Companion Android Application (TRAVE_APP)
+# 🗺 Travel Companion Android Application (TRAVE_APP)
 
 A feature-rich Android travel assistant that helps users discover nearby places, get AI-powered recommendations, explore maps, receive smart notifications, and sync travel data using Firebase.
-Designed primarily for **Navi Mumbai (Vashi, Nerul, Juinagar, Turbhe)** with a curated local dataset, but fully customizable to support **any city or region**.
+Designed primarily for *Navi Mumbai (Vashi, Nerul, Juinagar, Turbhe)* with a curated local dataset, but fully customizable to support *any city or region*.
 
 ---
 
 ## 🔍 Overview
 
 Travel Companion App is an intelligent Android travel assistant aimed at delivering a smooth, personalized travel experience.
-Although the app is mainly developed for **Navi Mumbai**, users or developers can easily modify the dataset to support any city.
+Although the app is mainly developed for *Navi Mumbai*, users or developers can easily modify the dataset to support any city.
 
 The app enables users to:
 
@@ -27,9 +26,36 @@ The app enables users to:
 ## 📸 Screenshots
 
 
+<p align="center">
+  <img src="app/src/main/assets/screenshots/splash screen.jpg" width="200" alt="Splash Screen">
+  <img src="app/src/main/assets/screenshots/login page.jpg" width="200" alt="Login Page">
+  <img src="app/src/main/assets/screenshots/main interface.jpg" width="200" alt="Main Interface">
+  <img src="app/src/main/assets/screenshots/categorywise selcting .png.jpg" width="200" alt="Category Selection">
+</p>
 
-<p align="center"> <img src="app/src/main/assets/screenshots/splash screen.jpg" width="200" alt="Splash Screen"> <img src="app/src/main/assets/screenshots/login page.jpg" width="200" alt="Login Page"> <img src="app/src/main/assets/screenshots/main interface.jpg" width="200" alt="Main Interface"> <img src="app/src/main/assets/screenshots/categorywise selcting .png.jpg" width="200" alt="Category Selection"> <img src="app/src/main/assets/screenshots/map integration.jpg" width="200" alt="Map Integration"> </p> <p align="center"> <img src="app/src/main/assets/screenshots/chatbot.jpg" width="200" alt="Chatbot"> <img src="app/src/main/assets/screenshots/chabot implementation.png.jpg" width="200" alt="Chatbot Implementation"> <img src="app/src/main/assets/screenshots/ML.jpg" width="200" alt="ML Insights"> <img src="app/src/main/assets/screenshots/notifications.jpg" width="200" alt="Notifications"> <img src="app/src/main/assets/screenshots/picnic tools.jpg" width="200" alt="Picnic Tools"> </p> <p align="center"> <img src="app/src/main/assets/screenshots/multi layout.jpg" width="200" alt="Multi Layout"> <img src="app/src/main/assets/screenshots/firebase_authentication.png" width="200" alt="Firebase Authentication"> <img src="app/src/main/assets/screenshots/firebase_cloud_messaging.png" width="200" alt="Firebase Cloud Messaging"> <img src="app/src/main/assets/screenshots/firebase_project_details.png" width="200" alt="Firebase Project Details"> <img src="app/src/main/assets/screenshots/firebase_user.png" width="200" alt="Firebase User"> </p>
 
+<p align="center">
+  <img src="app/src/main/assets/screenshots/map integration.jpg" width="200" alt="Map Integration">
+  <img src="app/src/main/assets/screenshots/chatbot.jpg" width="200" alt="Chatbot">
+  <img src="app/src/main/assets/screenshots/chabot implementation.png.jpg" width="200" alt="Chatbot Implementation">
+  <img src="app/src/main/assets/screenshots/ML.jpg" width="200" alt="ML Insights">
+</p>
+
+<p align="center">
+  <img src="app/src/main/assets/screenshots/notifications.jpg" width="200" alt="Notifications">
+  <img src="app/src/main/assets/screenshots/picnic tools.jpg" width="200" alt="Picnic Tools">
+  <img src="app/src/main/assets/screenshots/multi layout.jpg" width="200" alt="Multi Layout">
+  <img src="app/src/main/assets/screenshots/firebase_authentication.png" width="200" alt="Firebase Authentication">
+</p>
+
+
+<p align="center">
+  <img src="app/src/main/assets/screenshots/firebase_cloud_messaging.png" width="200" alt="Firebase Cloud Messaging">
+  <img src="app/src/main/assets/screenshots/firebase_project_details.png" width="200" alt="Firebase Project Details">
+  <img src="app/src/main/assets/screenshots/firebase_user.png" width="200" alt="Firebase User">
+  <!-- Replace this with your 16th image -->
+  <img src="app/src/main/assets/screenshots/YOUR_16TH_IMAGE_NAME.jpg" width="200" alt="Extra Screenshot">
+</p>
 ---
 
 ## ✨ Features
@@ -73,7 +99,7 @@ Gemini AI Cloud Assistant (Optional)
 * Smart reminders based on frequently visited categories
 * User preference controls and quiet hours
 
-### ☁️ Firebase Cloud Sync
+### ☁ Firebase Cloud Sync
 
 * Syncs favorites, history, visited places
 * Real-time data updates
@@ -103,7 +129,7 @@ Gemini AI Cloud Assistant (Optional)
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠 Technical Stack
 
 * Language: Java
 * Architecture: MVVM
@@ -144,13 +170,13 @@ Gemini AI Cloud Assistant (Optional)
 
 1. Clone the repository
 
-   ```
-   git clone <your-repo-url>
-   cd TRAVE_APP
-   ```
+   
+   git clone https://github.com/Hyper-Hickory/travel-explorer-app-android.git
+   cd TRAVEL_APP
+   
 2. Open the project in Android Studio
-3. Add your **Google Maps API key** inside the manifest
-4. (Optional) Add your **Firebase google-services.json** file
+3. Add your *Google Maps API key* inside the manifest
+4. (Optional) Add your *Firebase google-services.json* file
 5. Run the application on emulator or device
 
 ---
