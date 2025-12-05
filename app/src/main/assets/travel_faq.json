@@ -1,0 +1,8 @@
+[
+  {"q": "What are popular restaurants for families?", "a": "Popular family restaurants include casual diners with kids' menus and play areas. Check local reviews for 'family-friendly' tags.", "tags": ["restaurants"]},
+  {"q": "Best parks for a morning walk", "a": "Look for parks with paved trails and open greenery. City central parks often open by 6am and are ideal for walking.", "tags": ["parks"]},
+  {"q": "Affordable hostels with Wi‑Fi", "a": "Budget hostels usually advertise free Wi‑Fi and shared kitchens. Filter by 'Wi‑Fi' and 'budget' on your booking app.", "tags": ["hostels"]},
+  {"q": "Quiet cafes to study", "a": "Choose cafes with ample seating, good lighting, and power outlets. Weekday mornings are typically quiet.", "tags": ["cafes"]},
+  {"q": "Hotels near the city center", "a": "Search for hotels within 1–2km of the city center for easy access to attractions and transit.", "tags": ["hotels"]},
+  {"q": "Best malls for shopping deals", "a": "Large malls often run weekend promotions. Visit information desks for current deals and membership discounts.", "tags": ["malls"]}
+]

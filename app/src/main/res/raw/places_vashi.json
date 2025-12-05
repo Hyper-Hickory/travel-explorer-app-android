@@ -1,0 +1,38 @@
+[
+  {"name":"Four Points by Sheraton Navi Mumbai, Vashi","category":"hotels","latitude":19.0657,"longitude":72.9978,"address":"Plot 39/1, 6 To 15, Sector 30A, Vashi, Navi Mumbai, Maharashtra 400703","rating":4.4},
+  {"name":"The Regenza by Tunga","category":"hotels","latitude":19.0650,"longitude":72.9971,"address":"Plot 37, Sector 30A, Vashi, Navi Mumbai, Maharashtra 400703","rating":4.3},
+  {"name":"Hotel Yogi Executive","category":"hotels","latitude":19.0801,"longitude":73.0013,"address":"Plot No. 31/A, Sector 24, Vashi, Navi Mumbai, Maharashtra 400705","rating":4.2},
+  {"name":"ibis Navi Mumbai","category":"hotels","latitude":19.0975,"longitude":73.0083,"address":"D-266, TTC Industrial Area, Turbhe, Navi Mumbai, Maharashtra 400705","rating":4.1},
+  {"name":"Yogi Midtown","category":"hotels","latitude":19.1031,"longitude":73.0068,"address":"Plot No. 24, Sector 24, Turbhe, Navi Mumbai, Maharashtra 400705","rating":4.0},
+
+  {"name":"Inorbit Mall Vashi","category":"malls","latitude":19.0654,"longitude":72.9967,"address":"Sector 30A, Vashi, Navi Mumbai, Maharashtra 400703","rating":4.5},
+  {"name":"Raghuleela Mall Vashi","category":"malls","latitude":19.0639,"longitude":72.9989,"address":"Behind Vashi Railway Station, Sector 30A, Vashi, Navi Mumbai, Maharashtra 400703","rating":4.1},
+  {"name":"Seawoods Grand Central Mall","category":"malls","latitude":19.0169,"longitude":73.0265,"address":"Seawoods Station Rd, Seawoods, Navi Mumbai, Maharashtra 400706","rating":4.6},
+  {"name":"Palm Beach Galleria Mall","category":"malls","latitude":19.0898,"longitude":73.0016,"address":"Sector 19D, Vashi, Navi Mumbai, Maharashtra 400703","rating":3.9},
+  {"name":"Little World Mall","category":"malls","latitude":19.0436,"longitude":73.0707,"address":"Plot 21, Sector 2, Kharghar, Navi Mumbai, Maharashtra 410210","rating":4.0},
+
+  {"name":"Barbeque Nation","category":"restaurants","latitude":19.0659,"longitude":72.9983,"address":"2nd Floor, Inorbit Mall, Sector 30A, Vashi, Navi Mumbai","rating":4.3},
+  {"name":"Mainland China","category":"restaurants","latitude":19.0652,"longitude":72.9975,"address":"Inorbit Mall, Sector 30A, Vashi, Navi Mumbai","rating":4.2},
+  {"name":"The Food Studio","category":"restaurants","latitude":19.0779,"longitude":73.0006,"address":"Sector 17, Vashi, Navi Mumbai","rating":4.1},
+  {"name":"Hotel Navratna","category":"restaurants","latitude":19.0658,"longitude":72.9997,"address":"Sector 17, Vashi, Navi Mumbai","rating":4.2},
+  {"name":"Shalimar Restaurant","category":"restaurants","latitude":19.0927,"longitude":73.0023,"address":"Juinagar, Navi Mumbai","rating":4.0},
+
+  {"name":"Starbucks Coffee","category":"cafes","latitude":19.0654,"longitude":72.9968,"address":"Ground Floor, Inorbit Mall, Sector 30A, Vashi, Navi Mumbai","rating":4.4},
+  {"name":"Cafe Coffee Day","category":"cafes","latitude":19.0760,"longitude":73.0027,"address":"Sector 17, Vashi, Navi Mumbai","rating":4.0},
+  {"name":"Third Wave Coffee","category":"cafes","latitude":19.0176,"longitude":73.0269,"address":"Seawoods Grand Central, Navi Mumbai","rating":4.3},
+  {"name":"Tea Villa Cafe","category":"cafes","latitude":19.0799,"longitude":73.0019,"address":"Sector 17, Vashi, Navi Mumbai","rating":4.2},
+  {"name":"Theobroma Vashi","category":"cafes","latitude":19.0758,"longitude":73.0004,"address":"Sector 17, Vashi, Navi Mumbai","rating":4.4},
+
+  {"name":"Turbhe Market","category":"parks","latitude":19.0893,"longitude":73.0177,"address":"Turbhe Naka, Navi Mumbai","rating":4.0},
+  {"name":"Nerul Lake & Nature Park","category":"parks","latitude":19.0306,"longitude":73.0186,"address":"Sector 23, Nerul, Navi Mumbai","rating":4.5},
+  {"name":"Rock Garden","category":"parks","latitude":19.0236,"longitude":73.0275,"address":"Sector 21, Nerul, Navi Mumbai","rating":4.3},
+  {"name":"Sagar Vihar Garden","category":"parks","latitude":19.0868,"longitude":73.0104,"address":"Sagar Vihar, Vashi, Navi Mumbai","rating":4.2},
+  {"name":"Wonders Park","category":"parks","latitude":19.0162,"longitude":73.0256,"address":"Sector 19A, Nerul East, Navi Mumbai","rating":4.5},
+
+  {"name":"Backpackers Hostel Nerul","category":"hostels","latitude":19.0251,"longitude":73.0221,"address":"Sector 20, Nerul, Navi Mumbai","rating":4.1},
+  {"name":"Budget Stay Hostel Vashi","category":"hostels","latitude":19.0791,"longitude":73.0031,"address":"Sector 17, Vashi, Navi Mumbai","rating":4.0},
+  {"name":"Seawoods Backpackers Hostel","category":"hostels","latitude":19.0142,"longitude":73.0274,"address":"Sector 40, Seawoods, Navi Mumbai","rating":4.0},
+  {"name":"Airoli Youth Hostel","category":"hostels","latitude":19.1614,"longitude":72.9991,"address":"Sector 5, Airoli, Navi Mumbai","rating":3.9},
+  {"name":"Kopar Khairane Hostel","category":"hostels","latitude":19.1046,"longitude":73.0007,"address":"Sector 3, Kopar Khairane, Navi Mumbai","rating":4.0}
+]
+
